@@ -1,0 +1,26 @@
+groq
+python-dotenv
+openai 
+torch
+transformers
+chromadb
+streamlit
+pypdf2
+langchain_community
+faiss-cpu
+unstructured
+selenium
+newspaper3k
+lxml-html-clean 
+langchain-ollama
+yt_dlp
+langchain_openai
+langchain-aimlapi
+langchain-aws
+boto3
+ffmpeg
+
+# for voice assistant RAG workflow
+soundfile
+sounddevice
+elevenlabs
