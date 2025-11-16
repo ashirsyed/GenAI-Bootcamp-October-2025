@@ -1,0 +1,9 @@
+groq
+python-dotenv
+streamlit
+boto3
+langchain
+langgraph
+langchain_core
+langchain_groq
+requests
